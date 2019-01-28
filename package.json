@@ -1,5 +1,5 @@
 {
-  "name": "vue-webpack-gettext",
+  "name": "vue-webtext",
   "version": "0.3.1",
   "description": "Extract and compile translations with vue-gettext and vue-loader, i.e. for .vue files with <template lang='pug'></template>",
   "main": "extract.js",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kennyki/vue-webpack-gettext.git"
+    "url": "git+https://github.com/SiReeves/vue-webtext.git"
   },
   "author": "kenny ki <knyki.12@gmail.com>",
   "license": "MIT",
